@@ -1,3 +1,5 @@
+[![Android Arsenal](https://img.shields.io/badge/Android%20Arsenal-BreathingProgressDemo-brightgreen.svg?style=flat)](http://android-arsenal.com/details/3/4111)
+
 # BreathingProgressDemo
 Here comes a nice little breathing progress which you can show in your Android apps.
 #Customisations
