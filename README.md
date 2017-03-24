@@ -2,10 +2,10 @@
 
 # BreathingProgressDemo
 Here comes a nice little breathing progress which you can show in your Android apps.
-#Customisations
+# Customisations
 Customisations are under development. They will be here in near future.
 
-#Preview
+# Preview
 <img src="http://webianks.com/breathing_progress/breather.gif" height="700" width="400" >
 
 # **Setup for Developers**
