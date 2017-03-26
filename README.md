@@ -2,7 +2,7 @@
 Here comes a nice little breathing progress which you can show in your Android apps.
 #Customisations will be coming soon.
 
-##Contributing
+## Contributing
 
 Please fork this repository and contribute back using <a href="https://github.com/webianks/BreathingProgressDemo/pulls">pull requests.</a><br>
 
